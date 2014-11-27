@@ -21,3 +21,7 @@ SEXP dump2(List x) {
 SEXP dump3(List x) {
   // ...
 }
+
+/*** R
+a <- list(a = 1L, b = 1.0, c = TRUE, d = "d")
+*/
